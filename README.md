@@ -8,7 +8,7 @@ This project showcases a beautifully crafted running horse animation created ent
 
 The Horse project is a creative experiment in front-end design. It uses CSS keyframes and transforms to simulate the motion of a horse running across the screen. The animation is lightweight, responsive, and works in any modern browser.
 
-📂 File Descriptions
+ File Descriptions
 
 index.html
 - The main entry point of the project.
@@ -27,17 +27,20 @@ script.js
 - Can be used to control animation playback (start, stop, speed adjustments).
 - Adds interactivity to the project if needed.
 
-🚀 Getting Started
+ Getting Started
 
 Prerequisites
 - Any modern web browser (Chrome, Firefox, Edge, Safari).
 - No external dependencies required.
+
 Run the Project
+
 - Clone the repository:
-git clone https://github.com/souraaav/Horse.git
+git clone
+https://github.com/souraaav/Horse.git
 - Open index.html in your browser.
 
-📸 Demo
+Demo
 <img width="1906" height="1003" alt="{FFBE2E4F-7390-4F40-9986-458E5C47566D}" src="https://github.com/user-attachments/assets/e1cc3e53-b11a-4919-966c-83d4b92e43d7" />
 
 
