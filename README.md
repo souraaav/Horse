@@ -4,7 +4,7 @@ Here’s the updated version with the summary included:
 
 ---
 
-# 🐎 Horse Running Animation  
+#  Horse Running Animation  
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)  
 ![Made with](https://img.shields.io/badge/made%20with-HTML%20%7C%20CSS%20%7C%20JS-blue)  
@@ -15,7 +15,7 @@ No images, no external libraries—just creative use of **CSS keyframes** and **
 
 ---
 
-## 📝 Summary  
+##  Summary  
 
 The **Horse Running Animation** project is a creative front‑end experiment that demonstrates how complex motion graphics can be achieved using only **HTML, CSS, and JavaScript**. The horse is built entirely from styled elements, and its galloping motion is powered by **CSS keyframes**.  
 
@@ -28,7 +28,7 @@ It’s a fun showcase of how web technologies can be pushed beyond traditional l
 
 ---
 
-## ✨ Features
+##  Features
 - 🎨 **Stylish animation** using only CSS  
 - ⚡ **Lightweight & responsive** – works in all modern browsers  
 - 🕹️ **Interactive controls** (via `script.js`) to start, stop, or adjust speed  
@@ -36,7 +36,7 @@ It’s a fun showcase of how web technologies can be pushed beyond traditional l
 
 ---
 
-## 📂 File Overview
+##  File Overview
 
 ### `index.html`
 - Sets up the webpage structure  
@@ -61,7 +61,7 @@ It’s a fun showcase of how web technologies can be pushed beyond traditional l
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Any modern web browser (Chrome, Firefox, Edge, Safari)  
@@ -75,19 +75,19 @@ Then open `index.html` in your browser.
 
 ---
 
-## 🎥 Demo
+##  Demo
 *(Add a GIF or screenshot of the horse running here for maximum impact!)*  
 
 ---
 
-## 💡 Ideas to Enhance
+##  Ideas to Enhance
 - Add **buttons** to control speed (slow, normal, fast)  
 - Include a **background scene** (grass, sky, track) for realism  
 - Make the horse **react to keyboard input** (e.g., spacebar to jump)  
 
 ---
 
-## 📄 License
+##  License
 This project is licensed under the [Unlicense](LICENSE). Free to use, modify, and share.  
 
 ---
