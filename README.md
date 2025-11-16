@@ -1,10 +1,14 @@
 
 
 🐎 Horse Running Animation – HTML & CSS Project
+
 This project showcases a beautifully crafted running horse animation created entirely with HTML and CSS, without relying on external libraries, images, or frameworks. It demonstrates how pure CSS animations can bring complex motion graphics to life in the browser.
+
 🌟 Project Overview
 The Horse project is a creative experiment in front-end design. It uses CSS keyframes and transforms to simulate the motion of a horse running across the screen. The animation is lightweight, responsive, and works in any modern browser.
+
 📂 File Descriptions
+
 index.html
 - The main entry point of the project.
 - Defines the structure of the webpage.
@@ -23,6 +27,7 @@ script.js
 - Adds interactivity to the project if needed.
 
 🚀 Getting Started
+
 Prerequisites
 - Any modern web browser (Chrome, Firefox, Edge, Safari).
 - No external dependencies required.
@@ -36,6 +41,7 @@ git clone https://github.com/souraaav/Horse.git
 
 
 📄 License
+
 This project is licensed under the Unlicense, making it free to use, modify, and distribute.
 
 ✅ This README highlights the functions of each file and gives a brief description of the project.
