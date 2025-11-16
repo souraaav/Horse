@@ -1,8 +1,3 @@
-Perfect, Sourav! Let’s add a **Summary section** to make your Horse project README more complete and engaging. This will give visitors a quick overview of what the project is about and why it’s interesting.  
-
-Here’s the updated version with the summary included:
-
----
 
 #  Horse Running Animation  
 
@@ -90,8 +85,4 @@ Then open `index.html` in your browser.
 ##  License
 This project is licensed under the [Unlicense](LICENSE). Free to use, modify, and share.  
 
----
 
-👉 With the **Summary section**, your README now feels more professional and complete.  
-
-Would you like me to also create a **longer descriptive summary (around 1000–1500 words)** like we did for your Snake Game project, explaining the workflow, design choices, and technical details in depth?
