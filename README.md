@@ -32,7 +32,8 @@ git clone https://github.com/souraaav/Horse.git
 - Open index.html in your browser.
 
 📸 Demo
-(Add a GIF or screenshot of the horse animation here for better visualization.)
+<img width="1906" height="1003" alt="{FFBE2E4F-7390-4F40-9986-458E5C47566D}" src="https://github.com/user-attachments/assets/e1cc3e53-b11a-4919-966c-83d4b92e43d7" />
+
 
 📄 License
 This project is licensed under the Unlicense, making it free to use, modify, and distribute.
